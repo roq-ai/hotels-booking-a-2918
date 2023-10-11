@@ -1,0 +1,2972 @@
+[
+  {
+    "team_member": [
+      {
+        "id": "9b7505ff-4ee1-4d90-ab0f-d25da685069a",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-10T21:58:57.900Z",
+        "updated_at": "2023-10-10T15:19:38.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10537485-3566-414c-8512-cbda3948694f",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "54321",
+        "country": "Canada",
+        "created_at": "2023-10-11T11:53:31.721Z",
+        "updated_at": "2023-10-10T21:01:01.871Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f641bec-6654-4efb-8d10-50cb20f4fd87",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "98765",
+        "country": "Mexico",
+        "created_at": "2023-10-11T05:04:49.710Z",
+        "updated_at": "2023-10-11T03:45:51.732Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05a49d5d-c7f6-4c5d-9028-202600461bc6",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "13579",
+        "country": "Brazil",
+        "created_at": "2023-10-10T17:34:24.430Z",
+        "updated_at": "2023-10-10T21:53:00.133Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdf1111e-3292-4450-9e39-2723de9a680e",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "97531",
+        "country": "Germany",
+        "created_at": "2023-10-11T07:05:29.143Z",
+        "updated_at": "2023-10-10T20:59:34.439Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "494e207b-2872-4862-a86b-7e4e0e747b41",
+        "phone_number": "1111111111",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T11:29:47.198Z",
+        "updated_at": "2023-10-11T08:08:28.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85ee3ea4-e160-4339-9637-81b0a85cf236",
+        "phone_number": "2222222222",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "54321",
+        "country": "Canada",
+        "created_at": "2023-10-11T00:22:10.097Z",
+        "updated_at": "2023-10-11T01:19:22.296Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68f98acf-767d-4d59-b14d-81f42eeafc5f",
+        "phone_number": "3333333333",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "98765",
+        "country": "Mexico",
+        "created_at": "2023-10-11T02:04:08.275Z",
+        "updated_at": "2023-10-10T14:13:47.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d7f5b713-9beb-467c-ad93-b89376254df4",
+        "phone_number": "4444444444",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "13579",
+        "country": "Brazil",
+        "created_at": "2023-10-11T05:18:38.793Z",
+        "updated_at": "2023-10-11T01:51:14.930Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b845041f-f519-4c9f-a50d-a16bc31e2469",
+        "phone_number": "5555555555",
+        "address": "555 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "97531",
+        "country": "Germany",
+        "created_at": "2023-10-10T22:03:49.797Z",
+        "updated_at": "2023-10-11T10:29:34.705Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "fc62a12f-7a06-41a5-b379-6b72eb85aa98",
+        "phone_number": "9999999999",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T09:54:03.335Z",
+        "updated_at": "2023-10-10T18:46:32.781Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83bc8153-4ab5-4bc3-8f85-ea55401c793a",
+        "phone_number": "8888888888",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "54321",
+        "country": "Canada",
+        "created_at": "2023-10-11T09:58:03.291Z",
+        "updated_at": "2023-10-11T01:49:24.232Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d04dd361-bd69-4032-b26c-c62e5023577d",
+        "phone_number": "7777777777",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "98765",
+        "country": "Mexico",
+        "created_at": "2023-10-11T02:02:35.764Z",
+        "updated_at": "2023-10-10T16:22:15.735Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93df2aa8-063b-44ec-8ff6-4f4716982645",
+        "phone_number": "6666666666",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "13579",
+        "country": "Brazil",
+        "created_at": "2023-10-10T18:37:41.470Z",
+        "updated_at": "2023-10-10T18:16:06.848Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c7c0956-176e-41b4-bfb2-6d406097d01b",
+        "phone_number": "5555555555",
+        "address": "555 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "97531",
+        "country": "Germany",
+        "created_at": "2023-10-10T14:35:46.554Z",
+        "updated_at": "2023-10-10T22:09:30.245Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "89562cb5-83af-49c8-8238-46b28ed3268e",
+        "business_name": "ABC Company",
+        "business_address": "111 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "12345",
+        "business_country": "USA",
+        "created_at": "2023-10-11T12:53:47.225Z",
+        "updated_at": "2023-10-11T08:06:45.814Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4bf9450-ed8e-4c95-a56f-576be49f4a80",
+        "business_name": "XYZ Enterprises",
+        "business_address": "222 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "54321",
+        "business_country": "Canada",
+        "created_at": "2023-10-10T18:55:05.658Z",
+        "updated_at": "2023-10-10T13:54:44.866Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f293640-5d9d-40fb-8311-9bfe55e9daed",
+        "business_name": "123 Corporation",
+        "business_address": "333 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "98765",
+        "business_country": "Mexico",
+        "created_at": "2023-10-10T22:22:49.814Z",
+        "updated_at": "2023-10-11T07:19:10.636Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06d26b4f-2c7f-48ed-b6fb-2acbf2ad4d1a",
+        "business_name": "Acme Inc",
+        "business_address": "444 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "13579",
+        "business_country": "Brazil",
+        "created_at": "2023-10-11T05:20:17.245Z",
+        "updated_at": "2023-10-11T08:04:59.696Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2856ece9-9680-4c21-b57e-ab51987d870e",
+        "business_name": "Best Co",
+        "business_address": "555 Maple St",
+        "business_city": "Philadelphia",
+        "business_state": "PA",
+        "business_zip_code": "97531",
+        "business_country": "Germany",
+        "created_at": "2023-10-11T09:50:34.584Z",
+        "updated_at": "2023-10-10T21:26:54.193Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "804e93cc-b844-42b6-8b8b-1a24ecc4f3f0",
+        "email": "Florine_Herzog@roq.tech",
+        "firstName": "Jackie",
+        "lastName": "Cole",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59452049",
+        "tenantId": null
+      },
+      {
+        "reference": "52f7d09b-7eb0-4dda-a97c-1fa7976be9f3",
+        "email": "Guillermo_Mertz@roq.tech",
+        "firstName": "Ruben",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/302.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9cfb5191-3fbe-42e8-ba30-0777580fd96e",
+        "email": "Lazaro41@roq.tech",
+        "firstName": "Kaylee",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39702488",
+        "tenantId": null
+      },
+      {
+        "reference": "31cca7a4-638f-4724-8cd0-155cad5dfead",
+        "email": "Kieran.Nienow-Block@roq.tech",
+        "firstName": "Braulio",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d71d0f13-8857-49a8-823d-722d622d70e9",
+        "email": "Kyle12@roq.tech",
+        "firstName": "Cayla",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1149.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "d1bc34b7-2abe-4611-92da-517242a3be86",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T02:44:51.958Z",
+        "updated_at": "2023-10-11T08:03:49.040Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12e37096-6550-4861-82c7-5940d7dc8156",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-10T22:14:37.539Z",
+        "updated_at": "2023-10-10T16:38:24.232Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5557df67-6552-431a-a21b-eb6f79576e2e",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-10T23:06:52.377Z",
+        "updated_at": "2023-10-10T16:15:40.906Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "13a4101b-6e54-444d-bd6f-f8d80474cde9",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-11T09:22:53.285Z",
+        "updated_at": "2023-10-10T16:45:04.567Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39a4f806-06cb-4f38-adc2-858709ad232a",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T02:36:30.493Z",
+        "updated_at": "2023-10-11T09:40:56.087Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "ff3bc69a-a5c8-4ae6-917b-8fe2ee865220",
+        "phone_number": "1111111111",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T12:54:34.875Z",
+        "updated_at": "2023-10-11T09:18:34.493Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4bc97545-fe93-40cc-9100-dbb45bb17876",
+        "phone_number": "2222222222",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-11T09:41:12.402Z",
+        "updated_at": "2023-10-11T00:11:19.827Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "442c9cbe-6cdd-48a8-a313-0271faa5be89",
+        "phone_number": "3333333333",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-11T01:18:57.110Z",
+        "updated_at": "2023-10-11T01:18:27.021Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9c1b062-64e8-46d2-9205-93b9daa80097",
+        "phone_number": "4444444444",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-11T00:50:43.043Z",
+        "updated_at": "2023-10-10T14:58:01.005Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9f17d28-0588-436e-af31-0c65fae259bd",
+        "phone_number": "5555555555",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-10T18:43:57.216Z",
+        "updated_at": "2023-10-11T01:27:19.717Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "694d9e71-ee76-45f0-8e1d-38e9c04ce80d",
+        "phone_number": "5555555555",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T04:34:47.877Z",
+        "updated_at": "2023-10-11T01:50:35.219Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ae074629-d6a7-402b-8fd0-50688389e897",
+        "phone_number": "6666666666",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-10T19:57:47.532Z",
+        "updated_at": "2023-10-11T01:25:00.364Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba39d017-fee0-45a2-af95-dbc5e3fbc129",
+        "phone_number": "7777777777",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-11T08:49:15.335Z",
+        "updated_at": "2023-10-10T16:25:19.823Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d70e4563-747c-407e-80f5-5384bcb73f84",
+        "phone_number": "8888888888",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-11T05:40:40.209Z",
+        "updated_at": "2023-10-10T18:02:03.831Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f936202-1117-4389-b443-1d3236967c05",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T08:02:11.887Z",
+        "updated_at": "2023-10-11T00:10:16.436Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "9436064d-baf0-4528-9757-589722ad0c42",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "12345",
+        "business_country": "USA",
+        "created_at": "2023-10-11T03:45:29.154Z",
+        "updated_at": "2023-10-10T17:43:33.463Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e5b7f7a-d667-420f-9b80-aeaf21ecdf48",
+        "business_name": "XYZ Corporation",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "67890",
+        "business_country": "Canada",
+        "created_at": "2023-10-10T14:55:41.150Z",
+        "updated_at": "2023-10-11T06:38:59.340Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34265e54-c91c-474e-9321-b7712f4c2e04",
+        "business_name": "123 Enterprises",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "54321",
+        "business_country": "Mexico",
+        "created_at": "2023-10-10T13:21:39.456Z",
+        "updated_at": "2023-10-11T05:28:47.773Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e3c97d6-abab-40c4-9f96-6106ba9ef824",
+        "business_name": "Acme Inc",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "98765",
+        "business_country": "UK",
+        "created_at": "2023-10-10T16:36:48.888Z",
+        "updated_at": "2023-10-11T06:37:24.768Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1484411-d4e0-402c-90a1-949275a1a332",
+        "business_name": "Global Industries",
+        "business_address": "654 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "43210",
+        "business_country": "Australia",
+        "created_at": "2023-10-10T21:03:32.359Z",
+        "updated_at": "2023-10-11T06:34:54.401Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4e3ace9e-7e10-4a21-8030-e94779c9b7bd",
+        "email": "Tara.Stamm@roq.tech",
+        "firstName": "Pink",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48274147",
+        "tenantId": null
+      },
+      {
+        "reference": "8faed0e2-ec5a-4c0d-9af3-073a6c140cfc",
+        "email": "Toy91@roq.tech",
+        "firstName": "Lavinia",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/42658160",
+        "tenantId": null
+      },
+      {
+        "reference": "0b5e1db0-2f63-4ac1-883e-0363f3a25f5c",
+        "email": "Maude20@roq.tech",
+        "firstName": "Archibald",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "80fb5c2c-15cf-4185-9ae3-2b65587269df",
+        "email": "Josie20@roq.tech",
+        "firstName": "Carlie",
+        "lastName": "Pollich-Koelpin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88741955",
+        "tenantId": null
+      },
+      {
+        "reference": "b392dade-ab5d-4356-bf40-6a5730a079c0",
+        "email": "Cydney13@roq.tech",
+        "firstName": "Kayley",
+        "lastName": "Walker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27915003",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "5a0e1499-f3f3-4b4c-9822-5a9a68484861",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T12:30:15.396Z",
+        "updated_at": "2023-10-11T12:13:10.959Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f461ca50-0e0c-4532-b194-a37850b37fbc",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-11T02:20:18.899Z",
+        "updated_at": "2023-10-11T01:10:34.597Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4483d293-bc79-44bf-8a02-cbdb1b16f8ea",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-11T08:26:28.446Z",
+        "updated_at": "2023-10-10T23:57:10.611Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7f77f21-1b35-42c6-bd6c-4b01d02879ee",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "Brazil",
+        "created_at": "2023-10-10T13:27:28.816Z",
+        "updated_at": "2023-10-11T13:00:30.888Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4180de4-e547-4ca7-bd60-98b78dec35ca",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T11:58:45.661Z",
+        "updated_at": "2023-10-11T05:26:29.337Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "8bd071a1-7cbc-4dab-ac82-4584183d2376",
+        "phone_number": "1112223333",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T02:07:44.429Z",
+        "updated_at": "2023-10-11T12:25:34.033Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "137d35c7-b1e3-4396-98a0-34b73906ca8b",
+        "phone_number": "4445556666",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-11T03:18:43.146Z",
+        "updated_at": "2023-10-11T05:35:37.035Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a511d96-9a20-4e69-8c9b-588fd3e51126",
+        "phone_number": "7778889999",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-10T16:38:39.972Z",
+        "updated_at": "2023-10-10T23:56:49.535Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1fea40d8-ba6e-4432-a09f-50c47d549da4",
+        "phone_number": "2223334444",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "Brazil",
+        "created_at": "2023-10-11T01:06:39.060Z",
+        "updated_at": "2023-10-11T09:15:55.278Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a017205-5864-49d5-aa93-eee6a015521c",
+        "phone_number": "5556667777",
+        "address": "555 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T01:27:02.326Z",
+        "updated_at": "2023-10-11T09:12:44.530Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "488a9ad4-fbb3-48d0-ae36-d60136c95177",
+        "phone_number": "9998887777",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T05:24:32.093Z",
+        "updated_at": "2023-10-10T13:26:48.478Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8354f311-bd76-4a98-9af7-7d920c7b3564",
+        "phone_number": "6665554444",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-10T17:27:38.643Z",
+        "updated_at": "2023-10-11T04:38:51.403Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45e2ead0-630f-48e9-96cb-bd0ff4760661",
+        "phone_number": "3332221111",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-10T18:33:09.890Z",
+        "updated_at": "2023-10-11T09:58:55.219Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60c5fec9-34dd-4b2b-a32a-6f01d9071866",
+        "phone_number": "7778889999",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "Brazil",
+        "created_at": "2023-10-10T21:12:40.396Z",
+        "updated_at": "2023-10-10T17:10:55.078Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "226bfa64-d958-4cfb-8ad1-ff9fd22de915",
+        "phone_number": "4445556666",
+        "address": "555 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-10T18:39:50.284Z",
+        "updated_at": "2023-10-11T08:00:43.966Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "f45be65d-fd2a-47c7-9c7a-cd1eed38a4c6",
+        "business_name": "ABC Company",
+        "business_address": "111 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "12345",
+        "business_country": "USA",
+        "created_at": "2023-10-11T00:58:40.517Z",
+        "updated_at": "2023-10-11T08:27:35.700Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "183beb65-5f0a-48d4-b097-21136bc7b26d",
+        "business_name": "XYZ Corporation",
+        "business_address": "222 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "67890",
+        "business_country": "Canada",
+        "created_at": "2023-10-11T00:18:14.006Z",
+        "updated_at": "2023-10-10T20:07:07.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8eda789-b4b7-47c5-b153-88ab6afa3641",
+        "business_name": "123 Enterprises",
+        "business_address": "333 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "54321",
+        "business_country": "Mexico",
+        "created_at": "2023-10-10T13:43:33.536Z",
+        "updated_at": "2023-10-11T09:15:55.216Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "231e0d31-8e00-47af-889b-57dc0eb43933",
+        "business_name": "PQR Ltd",
+        "business_address": "444 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "98765",
+        "business_country": "Brazil",
+        "created_at": "2023-10-11T00:03:25.614Z",
+        "updated_at": "2023-10-11T04:20:32.890Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2b75d06-adbd-4ab1-b406-79277435e3ad",
+        "business_name": "MNO Group",
+        "business_address": "555 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "43210",
+        "business_country": "Australia",
+        "created_at": "2023-10-10T23:35:24.951Z",
+        "updated_at": "2023-10-11T07:25:29.848Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7bca7b80-66dd-43e0-815d-ebeb8c45f5b9",
+        "email": "Thomas62@roq.tech",
+        "firstName": "Shanel",
+        "lastName": "Jaskolski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/804.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49214c36-d55f-4b7f-812a-7ecc6cce896a",
+        "email": "Colton79@roq.tech",
+        "firstName": "Sibyl",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21706407",
+        "tenantId": null
+      },
+      {
+        "reference": "5636d4a1-7884-43b1-a9b3-b259e4c7770e",
+        "email": "Jude_Gerhold@roq.tech",
+        "firstName": "Eliza",
+        "lastName": "Davis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49243887",
+        "tenantId": null
+      },
+      {
+        "reference": "e93ba220-3b3a-48fa-980d-094b01a51f0a",
+        "email": "Connor13@roq.tech",
+        "firstName": "Amie",
+        "lastName": "Wolff",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46000382",
+        "tenantId": null
+      },
+      {
+        "reference": "4ed32fee-b114-4f39-a6ed-70bf74de8162",
+        "email": "Lura57@roq.tech",
+        "firstName": "Piper",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/988.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "dde038e9-9159-41ae-9e2e-9e86b2e663a4",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T13:29:51.574Z",
+        "updated_at": "2023-10-11T02:31:05.003Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "72f9ca0c-1f55-418f-99ee-2be5e6e08cad",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T06:40:36.889Z",
+        "updated_at": "2023-10-11T11:17:53.132Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e012d7d-c228-4910-8485-193444fb1bb3",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-10T16:50:57.466Z",
+        "updated_at": "2023-10-10T20:13:04.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3e44a021-6cef-47f3-bbe3-7ca8146e65ca",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-11T06:33:51.079Z",
+        "updated_at": "2023-10-11T02:24:48.319Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01ba21b0-f7f8-49b9-8e9c-350aee2c8f5a",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-11T10:30:33.859Z",
+        "updated_at": "2023-10-11T10:31:55.227Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "d7c4e366-9bbb-490c-a015-5d9a81b2da56",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T16:06:25.489Z",
+        "updated_at": "2023-10-10T22:13:16.766Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cdb5b5ba-c4b6-4784-bd17-259e773789a0",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T19:46:10.803Z",
+        "updated_at": "2023-10-10T22:40:13.961Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "735de0b9-6374-4ec2-800c-81ee19fa7deb",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T05:21:36.513Z",
+        "updated_at": "2023-10-10T15:28:23.681Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e72ff72-9e71-4c0e-86e1-629d96d83f93",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-11T08:26:15.711Z",
+        "updated_at": "2023-10-10T14:24:49.651Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95795858-d311-4891-bdfe-073f2289c696",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-10T14:18:43.018Z",
+        "updated_at": "2023-10-10T19:32:38.953Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "4fa9690b-1856-4236-8dc4-83b2acfa5e03",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T04:19:56.640Z",
+        "updated_at": "2023-10-11T05:35:32.336Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b8258fd2-5f84-446c-afb5-d2ff8c7a5582",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T13:40:59.364Z",
+        "updated_at": "2023-10-10T21:40:09.861Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce71ad1f-2983-4717-ab06-08232b9f2608",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T12:51:57.109Z",
+        "updated_at": "2023-10-10T16:06:27.062Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca792d2c-6fcc-4878-a172-4213a05f7273",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-10T23:40:28.641Z",
+        "updated_at": "2023-10-10T16:31:57.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92597833-daab-482e-be85-de93a911062a",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-10T21:07:51.738Z",
+        "updated_at": "2023-10-11T07:48:14.197Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "c3e52750-4cd1-4163-870d-372bb8dd0eeb",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-11T10:20:33.246Z",
+        "updated_at": "2023-10-10T15:27:35.958Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14022c7a-9da7-4a85-9688-9d94faf3f78e",
+        "business_name": "XYZ Enterprises",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-10T18:14:19.317Z",
+        "updated_at": "2023-10-11T11:57:33.265Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "981e290f-4fd2-4ff5-9e7f-ec713a78604f",
+        "business_name": "123 Corporation",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "UK",
+        "created_at": "2023-10-10T17:32:55.911Z",
+        "updated_at": "2023-10-11T02:44:09.410Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "847775dd-68e3-4aa8-815f-fbd92f65f40c",
+        "business_name": "Acme Inc",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "Australia",
+        "created_at": "2023-10-11T01:58:21.646Z",
+        "updated_at": "2023-10-10T23:56:20.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a7fb33a-8c73-467e-9fd3-654cd5bfc795",
+        "business_name": "Global Solutions",
+        "business_address": "654 Maple St",
+        "business_city": "Philadelphia",
+        "business_state": "PA",
+        "business_zip_code": "19101",
+        "business_country": "Germany",
+        "created_at": "2023-10-11T09:48:14.893Z",
+        "updated_at": "2023-10-10T19:56:46.543Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d4115391-005a-42ba-89ee-476303ebc4b0",
+        "email": "Destini_Little82@roq.tech",
+        "firstName": "Marcus",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70936093",
+        "tenantId": null
+      },
+      {
+        "reference": "d713406c-d17b-4326-ad35-159fd0ac011d",
+        "email": "Rosie98@roq.tech",
+        "firstName": "Novella",
+        "lastName": "Yost",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45662214",
+        "tenantId": null
+      },
+      {
+        "reference": "7ef46b23-e3d7-43d9-bb2f-b92b037d1949",
+        "email": "Danny.Lebsack70@roq.tech",
+        "firstName": "Roma",
+        "lastName": "Gorczany",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58521749",
+        "tenantId": null
+      },
+      {
+        "reference": "22cd0120-9627-4dad-97fa-a1467cb22bcf",
+        "email": "Chasity.Torphy84@roq.tech",
+        "firstName": "Cortez",
+        "lastName": "Wilkinson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/957.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "421464ba-e919-45d0-8997-03fa957a45d2",
+        "email": "Roscoe54@roq.tech",
+        "firstName": "Sadie",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66959930",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "807337f0-22dc-47b8-9fee-376269aeeb3f",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T19:49:03.280Z",
+        "updated_at": "2023-10-11T09:57:35.017Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "189a8d6a-4909-416e-b734-c33a2b45c5c8",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T09:33:56.221Z",
+        "updated_at": "2023-10-11T12:11:00.981Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26cf29ee-5ce2-4e48-8a51-9e673d45bf95",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-10T15:02:40.316Z",
+        "updated_at": "2023-10-11T05:09:04.667Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c5bec40-7dab-4e8b-bf60-093403921508",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-11T07:08:26.968Z",
+        "updated_at": "2023-10-10T17:36:22.840Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a61b73f3-de44-4ca2-8e39-f96a96e65e62",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-11T10:27:21.272Z",
+        "updated_at": "2023-10-10T18:25:56.619Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "5aa713c0-a774-4759-80cb-72c98ef9a79e",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T01:58:17.918Z",
+        "updated_at": "2023-10-11T06:17:06.260Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d2947c40-f0aa-40c9-8abe-c8a8ad60d9de",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T09:36:55.709Z",
+        "updated_at": "2023-10-10T15:56:42.888Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1554f6e-3643-4127-a3de-36068d7b3a38",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-10T20:42:27.657Z",
+        "updated_at": "2023-10-11T08:46:05.994Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e5dcde87-c316-410b-a889-b7e29454fc7f",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-10T23:28:02.849Z",
+        "updated_at": "2023-10-10T18:23:06.279Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "befd437e-4df1-4be1-a66b-a202e98c112b",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-11T02:46:12.277Z",
+        "updated_at": "2023-10-11T11:24:09.690Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "b7889769-3d5c-4d23-a8d9-21121468e1d3",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T21:13:58.002Z",
+        "updated_at": "2023-10-10T21:48:01.862Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e32c489-290a-4dc6-8f34-3539f03e4999",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T02:41:18.482Z",
+        "updated_at": "2023-10-10T18:25:56.404Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "661ab5d1-2e12-4287-8445-2ac97538966d",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T06:44:55.760Z",
+        "updated_at": "2023-10-10T21:18:18.667Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee81dc1d-4a2a-41f6-aa1c-afd656372b3a",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-10T22:19:24.003Z",
+        "updated_at": "2023-10-10T16:30:40.057Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "586151d0-91b6-4aae-aa2f-411bc26a0e74",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-11T09:10:38.618Z",
+        "updated_at": "2023-10-11T08:01:39.883Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "c19fa624-c092-4576-9c39-f4f8c0b88aae",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-10T20:51:28.601Z",
+        "updated_at": "2023-10-10T17:16:04.453Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d192f205-4358-407e-a884-6c02135a1125",
+        "business_name": "XYZ Enterprises",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-11T07:02:07.745Z",
+        "updated_at": "2023-10-11T04:09:10.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc2ae27b-5205-40b7-9097-50e25e705430",
+        "business_name": "123 Corporation",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "UK",
+        "created_at": "2023-10-11T11:06:38.071Z",
+        "updated_at": "2023-10-11T04:25:31.595Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "41046bff-4838-4811-92d1-631aeef24fff",
+        "business_name": "Acme Industries",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "Australia",
+        "created_at": "2023-10-11T09:16:38.181Z",
+        "updated_at": "2023-10-11T08:32:59.715Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa07d2be-7967-4d40-8d91-4e507ee01323",
+        "business_name": "Global Solutions",
+        "business_address": "654 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "85001",
+        "business_country": "Germany",
+        "created_at": "2023-10-10T13:18:34.334Z",
+        "updated_at": "2023-10-11T12:34:45.437Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "be7efe8c-a2a6-4233-9b6b-4a34221ce849",
+        "email": "Waldo_Gibson-Reichel@roq.tech",
+        "firstName": "Alysha",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/654.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0e1cdaf1-0dc6-4f1e-8663-78d288c48099",
+        "email": "Myles78@roq.tech",
+        "firstName": "Alene",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/679.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e64c33bc-66c9-406c-8c21-7200a3f5c682",
+        "email": "Esther80@roq.tech",
+        "firstName": "Rudolph",
+        "lastName": "Lynch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/474214",
+        "tenantId": null
+      },
+      {
+        "reference": "5b8f6e20-ce2b-46d1-9320-a067b8ca5677",
+        "email": "Samir_Ebert@roq.tech",
+        "firstName": "Nakia",
+        "lastName": "Jast",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71368550",
+        "tenantId": null
+      },
+      {
+        "reference": "94516e34-71ea-4d61-b9de-8e71e0caa0b0",
+        "email": "Carlotta_Effertz@roq.tech",
+        "firstName": "Markus",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/557.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "ecd594cb-0c21-48be-84bf-15a592b08ad5",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T20:01:24.109Z",
+        "updated_at": "2023-10-10T20:34:38.538Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d22ca9ec-380e-4cfc-8486-fb36bf20bf13",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T04:10:04.408Z",
+        "updated_at": "2023-10-11T07:50:01.360Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6fb8a6ad-5e2f-43e8-a3c9-7eb3dd70a47b",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-10T18:26:21.533Z",
+        "updated_at": "2023-10-10T14:32:35.680Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ce45109-22d1-4e9f-9ccd-d5c136ebd281",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "UK",
+        "created_at": "2023-10-10T21:49:31.776Z",
+        "updated_at": "2023-10-11T11:15:11.816Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4c19640-fc32-451c-9c30-630730ffa848",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Australia",
+        "created_at": "2023-10-10T18:00:49.627Z",
+        "updated_at": "2023-10-11T12:12:35.388Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "4106ddcd-6d43-463b-b144-789eee9769c8",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T17:29:37.898Z",
+        "updated_at": "2023-10-10T15:19:20.099Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17eb4e82-2c22-46a7-94f6-b115c31cbf8b",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T22:07:01.621Z",
+        "updated_at": "2023-10-11T00:15:45.653Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "422e64c1-6096-402d-beb3-c4b421caa67a",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-11T12:21:28.988Z",
+        "updated_at": "2023-10-11T08:26:54.550Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4a93405-62a4-4a17-aaa7-de9d83bf61e7",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "UK",
+        "created_at": "2023-10-10T22:55:48.738Z",
+        "updated_at": "2023-10-11T06:31:50.880Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11b89b5c-2d5a-4329-a913-4d30567d0a6d",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Australia",
+        "created_at": "2023-10-11T02:50:53.744Z",
+        "updated_at": "2023-10-11T03:21:12.224Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "5e90255f-4eea-4234-8fe2-56b09225dac0",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T11:49:12.634Z",
+        "updated_at": "2023-10-10T15:09:59.136Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdd30b55-8de0-4f16-8576-31c09235a310",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T21:23:26.566Z",
+        "updated_at": "2023-10-11T05:24:14.302Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac70ad9c-e9a9-498a-9f32-14a3bc8496b3",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-11T07:59:53.923Z",
+        "updated_at": "2023-10-10T14:52:53.399Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6ee246c-3f8a-4cde-8fa5-02d50688de84",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "UK",
+        "created_at": "2023-10-11T01:04:12.080Z",
+        "updated_at": "2023-10-11T03:43:38.982Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11e344cd-16a9-4e70-b591-7d9b6bd3e187",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Australia",
+        "created_at": "2023-10-11T11:11:50.285Z",
+        "updated_at": "2023-10-10T18:24:52.395Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "1abf0d3d-fe69-4055-8c12-a92d9756b0a5",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-10T16:53:09.183Z",
+        "updated_at": "2023-10-10T19:29:11.450Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11868940-6649-481f-91f6-d476d47e6eb1",
+        "business_name": "XYZ Corporation",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-11T05:56:03.204Z",
+        "updated_at": "2023-10-11T01:20:27.713Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c8565ef-3d4c-47fb-9b6b-b0ba1161fbb1",
+        "business_name": "123 Enterprises",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "Mexico",
+        "created_at": "2023-10-11T09:04:21.104Z",
+        "updated_at": "2023-10-11T00:46:43.407Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8f651d2c-c372-4cd1-9f62-930e60f89f7c",
+        "business_name": "Acme Co.",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "UK",
+        "created_at": "2023-10-11T06:18:18.462Z",
+        "updated_at": "2023-10-10T19:14:11.688Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea9fa28f-90ca-46f0-859d-303455f81994",
+        "business_name": "Global Solutions",
+        "business_address": "654 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "85001",
+        "business_country": "Australia",
+        "created_at": "2023-10-10T22:05:48.215Z",
+        "updated_at": "2023-10-10T20:26:57.825Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3a8afeac-1309-4384-a953-73f8138a6e2d",
+        "email": "Seth.Weissnat79@roq.tech",
+        "firstName": "Violet",
+        "lastName": "Ferry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9210",
+        "tenantId": null
+      },
+      {
+        "reference": "04ae5292-3300-4a13-9f32-dc88ee050fe3",
+        "email": "Lon.Windler@roq.tech",
+        "firstName": "Patsy",
+        "lastName": "Hyatt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24934054",
+        "tenantId": null
+      },
+      {
+        "reference": "ed5eb20d-641f-446f-bd18-42d5f011c8f0",
+        "email": "Antonette.Huels@roq.tech",
+        "firstName": "Katelynn",
+        "lastName": "Bergnaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/597.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9190ffdd-68a8-4a11-a287-adb3071e7e40",
+        "email": "Herbert20@roq.tech",
+        "firstName": "Justine",
+        "lastName": "Kris",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93133522",
+        "tenantId": null
+      },
+      {
+        "reference": "64076ed3-7d4a-4602-9d2e-1eab57bec4fc",
+        "email": "Valentine.Conn14@roq.tech",
+        "firstName": "Eda",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1106.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "5189bf6c-065a-42ea-81f2-82c9181964f4",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T03:18:56.251Z",
+        "updated_at": "2023-10-10T21:44:13.730Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de684ef7-0b23-4ad4-83b5-0780eb65bd47",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T16:01:46.608Z",
+        "updated_at": "2023-10-10T23:23:47.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "898abd3e-b726-4d8e-b961-92a2c44482c3",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-11T10:49:44.117Z",
+        "updated_at": "2023-10-11T07:51:47.390Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4a8ddc1a-5a93-4bf6-a3bf-3fba13e17262",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-11T03:30:34.133Z",
+        "updated_at": "2023-10-10T17:23:12.914Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51b6adda-e72a-49a3-aa35-478f8fdffdc3",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-10T23:30:48.143Z",
+        "updated_at": "2023-10-11T05:04:34.605Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "b3d058dd-1ce9-4dd5-bdac-f29a186c9f30",
+        "phone_number": "1111111111",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T15:08:44.149Z",
+        "updated_at": "2023-10-11T06:40:33.985Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2677bcad-f4ba-4282-974f-ccbd25bfd940",
+        "phone_number": "2222222222",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T05:02:40.648Z",
+        "updated_at": "2023-10-10T15:13:32.183Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfcdf2d9-e161-4f08-9716-81fa1f4be386",
+        "phone_number": "3333333333",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-10T16:55:40.251Z",
+        "updated_at": "2023-10-10T16:06:59.461Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "988b1389-e8f8-4ff4-b430-3df215dfc32c",
+        "phone_number": "4444444444",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-10T23:17:44.578Z",
+        "updated_at": "2023-10-11T01:33:10.760Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f02771f3-80e7-4a3b-adb6-8d107c7b2574",
+        "phone_number": "5555555555",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-10T15:46:15.267Z",
+        "updated_at": "2023-10-11T08:18:02.722Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "fd18192b-3326-4ed5-aff8-5fbfe7f73fcb",
+        "phone_number": "5555555555",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T02:57:08.944Z",
+        "updated_at": "2023-10-10T23:18:29.298Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42cde8f4-b0d8-4288-b9a7-5dd2bca1f580",
+        "phone_number": "6666666666",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T21:37:24.338Z",
+        "updated_at": "2023-10-10T17:33:10.133Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad271c68-6889-45fc-8af1-74363ec2c734",
+        "phone_number": "7777777777",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-11T05:35:35.749Z",
+        "updated_at": "2023-10-10T15:14:39.969Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34063909-dfc5-4d93-a88d-1423189e7abc",
+        "phone_number": "8888888888",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-10T20:40:25.597Z",
+        "updated_at": "2023-10-11T02:45:07.949Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e22c8d38-f0ec-4ccf-8b92-7de71138c048",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Germany",
+        "created_at": "2023-10-11T03:33:24.404Z",
+        "updated_at": "2023-10-11T11:26:20.771Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "0fabe0d3-88a1-4324-b973-bb51755ca2d5",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-10T21:39:18.777Z",
+        "updated_at": "2023-10-11T02:39:40.547Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b70bd897-42b9-4e27-81fc-01fc49381ce1",
+        "business_name": "XYZ Corporation",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-11T06:40:40.060Z",
+        "updated_at": "2023-10-11T06:57:46.137Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2fccfea9-346f-45be-9110-e912b8469f4e",
+        "business_name": "123 Enterprises",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "Mexico",
+        "created_at": "2023-10-11T12:29:33.126Z",
+        "updated_at": "2023-10-11T12:24:36.095Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef433b82-c635-4eeb-8a26-60d1cc2b7987",
+        "business_name": "Acme Co.",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "Brazil",
+        "created_at": "2023-10-11T00:24:21.942Z",
+        "updated_at": "2023-10-11T10:05:22.787Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7746d25e-e71c-4d4f-83c2-e98172e9800f",
+        "business_name": "Global Industries",
+        "business_address": "654 Maple St",
+        "business_city": "Philadelphia",
+        "business_state": "PA",
+        "business_zip_code": "19101",
+        "business_country": "Germany",
+        "created_at": "2023-10-10T20:16:24.753Z",
+        "updated_at": "2023-10-10T13:58:17.754Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c6b61049-e692-4175-86bf-4511aabffc1b",
+        "email": "Alene25@roq.tech",
+        "firstName": "Hildegard",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2032427",
+        "tenantId": null
+      },
+      {
+        "reference": "b9609be0-5ada-45d9-aa8b-735ad7157728",
+        "email": "Breanna.Mitchell@roq.tech",
+        "firstName": "Sharon",
+        "lastName": "Ryan-Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65667895",
+        "tenantId": null
+      },
+      {
+        "reference": "4775c3be-9438-4ecf-a268-b1d2b04b90a7",
+        "email": "Antwan.Lubowitz@roq.tech",
+        "firstName": "Casper",
+        "lastName": "Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a3ae1fc2-39b1-4798-a483-12bbe639bf9c",
+        "email": "Nico_Hettinger@roq.tech",
+        "firstName": "Samanta",
+        "lastName": "Bergstrom",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1202.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cfec4a2a-74bf-4068-9213-933f875d0347",
+        "email": "Bert32@roq.tech",
+        "firstName": "Destany",
+        "lastName": "Kuhlman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33012483",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "94a261a7-8d45-411e-8f49-365bebd2faf4",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T00:23:23.226Z",
+        "updated_at": "2023-10-11T06:35:31.578Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7f0bb18-b19e-4446-b56b-5b9b7ae4698d",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T02:16:35.897Z",
+        "updated_at": "2023-10-10T19:59:35.975Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "420743c6-3d77-4089-98ff-63fe12e86ea5",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T03:47:31.021Z",
+        "updated_at": "2023-10-11T02:20:37.080Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a08fcd41-4b93-4486-b3ef-91210cdeb459",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-10T18:34:47.732Z",
+        "updated_at": "2023-10-10T17:54:44.556Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75b05605-8238-44e0-b3ca-b9a92eb1250c",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-10T18:42:55.506Z",
+        "updated_at": "2023-10-11T09:16:23.001Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "390a35ab-64c9-407c-b83e-4362f1a81cbd",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T03:49:56.779Z",
+        "updated_at": "2023-10-10T22:22:12.467Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e90be68-638e-4970-8fea-a5d60b81b959",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T04:05:13.509Z",
+        "updated_at": "2023-10-11T08:49:02.566Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ecab1f78-52af-4d3e-81a6-258b61658395",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T06:44:04.449Z",
+        "updated_at": "2023-10-11T00:09:09.695Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1349fe9-fac3-4102-9a51-b0681fa1b08e",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-11T01:57:38.346Z",
+        "updated_at": "2023-10-11T12:12:48.234Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbf6aded-728b-4dea-b594-e50f3c86861e",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-11T01:53:25.213Z",
+        "updated_at": "2023-10-10T18:48:25.603Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "7bad6a5b-7ffc-4519-a886-b193b232b8d1",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T05:17:05.940Z",
+        "updated_at": "2023-10-11T07:38:16.656Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99dbb787-4957-494e-a92b-cfa34dbb3b25",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T05:26:40.578Z",
+        "updated_at": "2023-10-11T02:42:59.907Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45ef1c88-81f9-4879-a0c9-58a68316ba65",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "UK",
+        "created_at": "2023-10-11T03:24:14.149Z",
+        "updated_at": "2023-10-11T00:05:37.988Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f1979aed-c400-4b24-b107-15848f7eba56",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Australia",
+        "created_at": "2023-10-10T17:00:10.734Z",
+        "updated_at": "2023-10-11T10:50:16.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd7b9c81-6213-4d10-bbdc-08f4c13be0cf",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "85001",
+        "country": "Germany",
+        "created_at": "2023-10-11T02:26:05.771Z",
+        "updated_at": "2023-10-11T11:21:37.929Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "db8c76b0-fd99-46aa-81cd-69b1c6bf7ad4",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-10T15:19:54.530Z",
+        "updated_at": "2023-10-11T10:33:12.726Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b93ca18-f1c5-4d02-8373-39c3a9b7c415",
+        "business_name": "XYZ Corporation",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-10T21:08:29.649Z",
+        "updated_at": "2023-10-11T13:03:21.761Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2aafd578-3744-4ff9-98d5-1d17ac3d9321",
+        "business_name": "123 Enterprises",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "UK",
+        "created_at": "2023-10-10T22:35:37.654Z",
+        "updated_at": "2023-10-11T02:43:53.517Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5eec7f73-4e04-4908-b889-93f6b7854210",
+        "business_name": "Acme Industries",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "Australia",
+        "created_at": "2023-10-10T17:44:38.970Z",
+        "updated_at": "2023-10-10T18:58:59.012Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a61e76ac-615c-4ad2-9864-24851d043b91",
+        "business_name": "Global Solutions",
+        "business_address": "654 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "85001",
+        "business_country": "Germany",
+        "created_at": "2023-10-10T16:43:43.516Z",
+        "updated_at": "2023-10-11T10:45:25.195Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7f6bb87-3e4a-4c0e-81bf-2303c9918565",
+        "email": "Frank68@roq.tech",
+        "firstName": "Alexanne",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/848.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fc601771-6c4f-4c8a-9142-60bfabc852c2",
+        "email": "Jason.Hudson98@roq.tech",
+        "firstName": "Anjali",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13793524",
+        "tenantId": null
+      },
+      {
+        "reference": "35316713-2387-4e2e-bbbb-9b15a75dea62",
+        "email": "Shanna62@roq.tech",
+        "firstName": "Nannie",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/584.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5f15e55c-0134-4a4b-b97f-ff44eaa115b6",
+        "email": "Cortney_Collins19@roq.tech",
+        "firstName": "Henri",
+        "lastName": "Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86250117",
+        "tenantId": null
+      },
+      {
+        "reference": "8e24d886-b3ff-4fe6-a00f-05c4983926b0",
+        "email": "Elmo_Gorczany@roq.tech",
+        "firstName": "Letha",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47635236",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "55ff6e9d-b07a-4850-9783-68c61e2284e1",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T06:55:24.623Z",
+        "updated_at": "2023-10-11T10:35:23.739Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e0e6773-510d-49df-8bf6-90634dc25280",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T18:44:08.000Z",
+        "updated_at": "2023-10-11T10:27:50.071Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84de4564-2fb7-4c3a-b9fb-8127f95fe0a5",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-10T17:38:39.323Z",
+        "updated_at": "2023-10-10T23:12:19.959Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b43fa58-ba0c-43ed-a7db-af2d66e37452",
+        "phone_number": "9999999999",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-10T21:00:31.405Z",
+        "updated_at": "2023-10-10T15:16:30.497Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd9c0bf8-0fc6-4400-9bd7-c845ad2a35d4",
+        "phone_number": "1111111111",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Australia",
+        "created_at": "2023-10-10T22:37:37.007Z",
+        "updated_at": "2023-10-10T16:54:25.010Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "91e042d8-7ed1-4128-ae0d-0834dab15754",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-10T15:29:39.019Z",
+        "updated_at": "2023-10-11T08:46:21.018Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8ed97cc-bfba-4fa1-8f7c-6c58899a557b",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-10T20:12:29.621Z",
+        "updated_at": "2023-10-10T19:28:16.978Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18dafa5b-83f4-4362-8ad7-7ab06062d4f2",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-11T09:16:25.599Z",
+        "updated_at": "2023-10-11T02:32:29.452Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4aa998a0-f196-400f-a876-12c269b4ed44",
+        "phone_number": "9999999999",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-11T02:15:12.152Z",
+        "updated_at": "2023-10-10T22:21:56.006Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1cb6ca99-4abd-4ae2-b147-0b148c829869",
+        "phone_number": "1111111111",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Australia",
+        "created_at": "2023-10-10T13:25:22.640Z",
+        "updated_at": "2023-10-11T04:46:16.842Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "4b27ac67-0d38-404e-975b-c74f5b4d0935",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "10001",
+        "country": "USA",
+        "created_at": "2023-10-11T05:02:33.041Z",
+        "updated_at": "2023-10-10T13:19:15.999Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b45247c-51b0-41e1-bca9-de68787b4878",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "90001",
+        "country": "Canada",
+        "created_at": "2023-10-11T00:29:30.797Z",
+        "updated_at": "2023-10-11T03:59:00.997Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6dbb1d19-7861-43c9-9079-efca18e3bf3d",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60601",
+        "country": "Mexico",
+        "created_at": "2023-10-10T23:01:44.120Z",
+        "updated_at": "2023-10-11T05:58:35.178Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "83638bb6-28e2-468e-a56c-4705c7519a58",
+        "phone_number": "9999999999",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "77001",
+        "country": "Brazil",
+        "created_at": "2023-10-10T13:46:37.301Z",
+        "updated_at": "2023-10-10T20:54:57.737Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51ad6a60-0f48-4bb2-aa34-3b31736954c8",
+        "phone_number": "1111111111",
+        "address": "654 Maple St",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip_code": "19101",
+        "country": "Australia",
+        "created_at": "2023-10-10T14:01:54.763Z",
+        "updated_at": "2023-10-11T10:25:39.295Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "52323ac4-676d-45e7-b226-513908ed3312",
+        "business_name": "ABC Company",
+        "business_address": "123 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "10001",
+        "business_country": "USA",
+        "created_at": "2023-10-11T00:17:34.256Z",
+        "updated_at": "2023-10-11T04:09:54.315Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea337fa8-d226-41be-a3bf-0db7eb19a777",
+        "business_name": "XYZ Enterprises",
+        "business_address": "456 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "90001",
+        "business_country": "Canada",
+        "created_at": "2023-10-11T01:04:38.873Z",
+        "updated_at": "2023-10-10T13:54:02.903Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7adcaf90-11f0-462f-9bdb-5ca241e9bd10",
+        "business_name": "123 Corporation",
+        "business_address": "789 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "60601",
+        "business_country": "Mexico",
+        "created_at": "2023-10-11T03:38:12.112Z",
+        "updated_at": "2023-10-10T15:04:05.585Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "69e290ac-f8a6-4fac-b1a2-4da56e586b30",
+        "business_name": "ABC Corporation",
+        "business_address": "321 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "77001",
+        "business_country": "Brazil",
+        "created_at": "2023-10-11T03:58:17.154Z",
+        "updated_at": "2023-10-11T06:27:41.588Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee4be442-dd80-404b-a5d5-9fa84abb3812",
+        "business_name": "XYZ Ventures",
+        "business_address": "654 Maple St",
+        "business_city": "Philadelphia",
+        "business_state": "PA",
+        "business_zip_code": "19101",
+        "business_country": "Australia",
+        "created_at": "2023-10-10T16:07:51.050Z",
+        "updated_at": "2023-10-11T06:48:33.323Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b408423d-ebbc-408b-a346-fc0dbe2222ac",
+        "email": "Eliezer_Hansen@roq.tech",
+        "firstName": "Izabella",
+        "lastName": "Weissnat",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1187.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9ac3f63a-b422-4fc2-aa06-00640b420b5b",
+        "email": "Javier.Jaskolski89@roq.tech",
+        "firstName": "Willa",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29192812",
+        "tenantId": null
+      },
+      {
+        "reference": "525b7c08-3502-4da6-9e5c-82c99585e73c",
+        "email": "Darrion_Ziemann@roq.tech",
+        "firstName": "Westley",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33981232",
+        "tenantId": null
+      },
+      {
+        "reference": "cbf35596-569c-4c25-964d-4b08079a0e38",
+        "email": "Alejandrin_Hamill@roq.tech",
+        "firstName": "Hosea",
+        "lastName": "Kuhic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/806.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7151dc9a-ee0a-4aa9-8349-1260c7f07053",
+        "email": "Derrick26@roq.tech",
+        "firstName": "Kayli",
+        "lastName": "Shanahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/91.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "team_member": [
+      {
+        "id": "dcc94757-3375-4377-ab33-62095df1871e",
+        "phone_number": "1234567890",
+        "address": "123 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-10T18:51:41.794Z",
+        "updated_at": "2023-10-11T11:13:06.776Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e25e3c0a-d824-4e2c-8467-cef13d7820c5",
+        "phone_number": "9876543210",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-10T15:16:49.202Z",
+        "updated_at": "2023-10-10T19:17:05.384Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be0a216d-7100-4d46-9289-633839f3fcb1",
+        "phone_number": "5555555555",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-10T15:29:57.474Z",
+        "updated_at": "2023-10-10T19:08:47.998Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "05506fc2-286c-4a2f-af89-49b890362ea9",
+        "phone_number": "1111111111",
+        "address": "321 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-10T14:47:35.328Z",
+        "updated_at": "2023-10-11T00:34:29.054Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c566422-d692-4f84-8be9-cadef095539c",
+        "phone_number": "9999999999",
+        "address": "654 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-10T14:49:54.391Z",
+        "updated_at": "2023-10-11T08:26:27.486Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "property_manager": [
+      {
+        "id": "0eda9d1c-2e31-4382-b06a-7aaf4b205811",
+        "phone_number": "1111111111",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-11T07:01:06.567Z",
+        "updated_at": "2023-10-10T23:33:12.789Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e9f0bdf8-39ea-4cef-b208-95e6012548e2",
+        "phone_number": "2222222222",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-10T16:22:41.553Z",
+        "updated_at": "2023-10-11T07:00:30.594Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "da3594b0-1ba7-404e-9e82-ded99cd9188c",
+        "phone_number": "3333333333",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-11T06:11:14.296Z",
+        "updated_at": "2023-10-10T14:31:13.444Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2d5ccc7-6d78-45e7-9717-20bd5062bc29",
+        "phone_number": "4444444444",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-10T23:57:52.105Z",
+        "updated_at": "2023-10-11T03:53:26.438Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6cbada05-1717-44d1-85fd-719d2b38253d",
+        "phone_number": "5555555555",
+        "address": "555 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T04:23:07.318Z",
+        "updated_at": "2023-10-11T04:47:52.006Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "customer": [
+      {
+        "id": "ed9b3cae-422f-49bc-8cc2-284926d9710e",
+        "phone_number": "5555555555",
+        "address": "111 Main St",
+        "city": "New York",
+        "state": "NY",
+        "zip_code": "12345",
+        "country": "USA",
+        "created_at": "2023-10-10T20:28:19.140Z",
+        "updated_at": "2023-10-11T00:14:36.018Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c331b53-6ccc-4dbd-9477-28086fbf5a56",
+        "phone_number": "6666666666",
+        "address": "222 Elm St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip_code": "67890",
+        "country": "Canada",
+        "created_at": "2023-10-11T11:07:18.677Z",
+        "updated_at": "2023-10-11T07:57:32.747Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a82db72-d428-4372-b489-fd772149015d",
+        "phone_number": "7777777777",
+        "address": "333 Oak St",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "54321",
+        "country": "Mexico",
+        "created_at": "2023-10-10T17:11:30.341Z",
+        "updated_at": "2023-10-11T07:09:04.991Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8b50d7d-1c6b-46b5-a33f-2bf588e2fa8e",
+        "phone_number": "8888888888",
+        "address": "444 Pine St",
+        "city": "Houston",
+        "state": "TX",
+        "zip_code": "98765",
+        "country": "UK",
+        "created_at": "2023-10-11T06:38:03.899Z",
+        "updated_at": "2023-10-10T20:43:57.397Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7f0eee6-3b75-41f8-a47e-5bcd1643a5b7",
+        "phone_number": "9999999999",
+        "address": "555 Maple St",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": "43210",
+        "country": "Australia",
+        "created_at": "2023-10-11T08:05:32.581Z",
+        "updated_at": "2023-10-10T20:40:31.347Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "business_owner": [
+      {
+        "id": "5b5695ed-7664-47ec-a0fb-ad1f492dcd2f",
+        "business_name": "ABC Company",
+        "business_address": "111 Main St",
+        "business_city": "New York",
+        "business_state": "NY",
+        "business_zip_code": "12345",
+        "business_country": "USA",
+        "created_at": "2023-10-11T03:34:15.836Z",
+        "updated_at": "2023-10-10T15:42:23.187Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c9c48e4-271b-4be5-a50e-8ba93c13cb55",
+        "business_name": "XYZ Enterprises",
+        "business_address": "222 Elm St",
+        "business_city": "Los Angeles",
+        "business_state": "CA",
+        "business_zip_code": "67890",
+        "business_country": "Canada",
+        "created_at": "2023-10-10T18:25:36.013Z",
+        "updated_at": "2023-10-11T12:57:47.464Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "797b333c-47ee-4107-afe8-fb2bb5354ccc",
+        "business_name": "123 Corporation",
+        "business_address": "333 Oak St",
+        "business_city": "Chicago",
+        "business_state": "IL",
+        "business_zip_code": "54321",
+        "business_country": "Mexico",
+        "created_at": "2023-10-11T07:36:33.006Z",
+        "updated_at": "2023-10-10T19:51:37.462Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31c7a671-7672-4e7b-83be-7f304b80eb7d",
+        "business_name": "Acme Co.",
+        "business_address": "444 Pine St",
+        "business_city": "Houston",
+        "business_state": "TX",
+        "business_zip_code": "98765",
+        "business_country": "UK",
+        "created_at": "2023-10-11T00:36:48.390Z",
+        "updated_at": "2023-10-11T08:44:05.298Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10d43a2b-d8c9-45ef-a78f-e39e7d0e9135",
+        "business_name": "Best Solutions",
+        "business_address": "555 Maple St",
+        "business_city": "Phoenix",
+        "business_state": "AZ",
+        "business_zip_code": "43210",
+        "business_country": "Australia",
+        "created_at": "2023-10-11T09:23:34.742Z",
+        "updated_at": "2023-10-11T04:56:10.379Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9cf83ac5-517f-4418-b46b-3a4341b606df",
+        "email": "Creola_Bosco@roq.tech",
+        "firstName": "Eve",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49324800",
+        "tenantId": null
+      },
+      {
+        "reference": "666d0c71-9222-469a-8f4c-d422b1726ed9",
+        "email": "Jaylan.Blanda@roq.tech",
+        "firstName": "Fermin",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/93.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f930e0b2-1fd5-4e0e-baef-53d2e032ccc6",
+        "email": "Adaline.Rempel54@roq.tech",
+        "firstName": "Lydia",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2c149774-db62-4812-ae28-1a8f83a83236",
+        "email": "Terrance_Buckridge@roq.tech",
+        "firstName": "Sarai",
+        "lastName": "Reichert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18758148",
+        "tenantId": null
+      },
+      {
+        "reference": "69e4cda4-95bd-4355-8d2a-011ddbe0710d",
+        "email": "Candace_Robel@roq.tech",
+        "firstName": "Arvilla",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28827089",
+        "tenantId": null
+      }
+    ]
+  }
+]
